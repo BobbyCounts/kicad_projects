@@ -1,0 +1,18 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "hbackbone": "30mm",
+        "rotation": "180deg",
+        "rows": "2",
+        "cols": "4"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "Edge.Cuts"
+    },
+    "copperfill": {
+        "type": "hatched",
+        "clearance": "1mm",
+        "layers": "F.Cu,B.Cu,In1.Cu,In2.Cu"
+    }
+}
